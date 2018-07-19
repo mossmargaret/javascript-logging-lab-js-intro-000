@@ -1,1 +1,1 @@
-console.log('Hi this is margaret!')
+console.log("I would be a logger.") 
